@@ -1,6 +1,5 @@
 # CES_Discovery
-# Reproducibility Repository for  
-**“Cohort-level analysis of human de novo mutations points to drivers of clonal expansion in spermatogonia”**
+# Reproducibility Repository for “Cohort-level analysis of human de novo mutations points to drivers of clonal expansion in spermatogonia”
 
 This repository contains Jupyter notebooks to reproduce key analyses, statistical tests, and visualizations from our manuscript. The relevant input data files required to run these notebooks are available via Zenodo:  
 **[Zenodo DOI XXX]**
