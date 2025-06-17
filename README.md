@@ -88,14 +88,7 @@ Implements a population-genetic test for validating CES candidates:
 
 ---
 
-## 📦 Data Availability  
-The data needed to run these notebooks are stored on Zenodo:  
-👉 **[Zenodo DOI placeholder — add link here]**
 
----
-
-## ⚠ Notes  
 - Please see the **Methods** section of the paper for details on models, tests, and assumptions.  
-- If you use this code, please cite our paper (add citation once published).
 
 
