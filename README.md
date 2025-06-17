@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks to reproduce key analyses, statistica
 
 ---
 
-## Notebooks
+## Jupyter Notebooks
 
 ### 1️⃣ **Enrichment_plots.ipynb**  
 Implements key visualizations and analyses reported in the manuscript:
